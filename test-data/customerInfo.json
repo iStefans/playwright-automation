@@ -1,0 +1,12 @@
+{
+  "default": {
+    "firstName": "Test",
+    "lastName": "Tester",
+    "zipCode": "0000"
+  },
+  "germanUser": {
+    "firstName": "Hans",
+    "lastName": "Müller",
+    "zipCode": "10115"
+  }
+}
